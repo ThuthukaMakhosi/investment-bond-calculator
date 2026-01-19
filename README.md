@@ -16,3 +16,4 @@ This is a simple Python program that allows users to calculate either investment
 ## How to Run
 1. Open the project in your preferred code editor.
 2. Run the Python file:
+        finance_calculators.py
